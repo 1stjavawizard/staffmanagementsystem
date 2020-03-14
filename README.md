@@ -1,21 +1,22 @@
 # staffmanagementsystem
 This file is not properly arranged into their designated folder, please arrange it yourself 
 because I uploaded using android. Please bear with me.
-Staff Management system
+
 Please change the root folder name to 'staffmanagement'.
 Change the navigations links to the your root folder name
 
 
 Please arrange the File structures as below or using the links or anchor 
 path to arrange into their required path;
- -CSS(folder),
- -images(folder),
- -js(folder),
+ - CSS(folder),
+ - images(folder),
+ - js(folder),
  - server(folder),
  - uploads(folder),
  - views(folder),
  - index.php(login file),
- - staff management.SQL.
+ - staff management SQL file.
+
 
 CSS folder contains:
     Styles files,

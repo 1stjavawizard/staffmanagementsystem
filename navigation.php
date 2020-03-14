@@ -27,7 +27,7 @@
   </a>
 <ul class="nav thiscodeschoolems-nav-level-2 collapse" id="activity1">
 	
-	<li><a href="note/" class="alignr">change password</a></li>
+	
 	<li><a href="#" class="alignr">change picture</a></li>
 	<li><a href="#" class="alignr">change username</a></li>
 	<li><a href="#"class="alignr">change profiles</a></li>
@@ -36,6 +36,7 @@
 </ul>
  
 </li>
+
 
 </ul>
 
